@@ -1,4 +1,4 @@
-# TaskFlow — Enterprise-Grade SaaS Task Manager
+# SyncStripe — Enterprise-Grade SaaS Task Manager
 
 TaskFlow is a premium, high-fidelity SaaS task management dashboard designed for high-performance team workspaces. It merges modern design systems (reminiscent of Linear, Stripe, and Vercel) with database-driven drag-and-drop workflows, real-time query engines, and native Gemini AI Assist capability.
 
