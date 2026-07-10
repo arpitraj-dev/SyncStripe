@@ -1,6 +1,6 @@
 # SyncStripe — Enterprise-Grade SaaS Task Manager
 
-TaskFlow is a premium, high-fidelity SaaS task management dashboard designed for high-performance team workspaces. It merges modern design systems (reminiscent of Linear, Stripe, and Vercel) with database-driven drag-and-drop workflows, real-time query engines, and native Gemini AI Assist capability.
+SyncStripe is a premium, high-fidelity SaaS task management dashboard designed for high-performance team workspaces. It merges modern design systems (reminiscent of Linear, Stripe, and Vercel) with database-driven drag-and-drop workflows, real-time query engines, and native Gemini AI Assist capability.
 
 ---
 
@@ -101,4 +101,4 @@ Currently, when a user moves a task card or updates a detail, the changes are sa
 By implementing WebSockets:
 - Any drag-and-drop movements or status transitions would trigger a server broadcast.
 - The cards would slide and move automatically in real-time on all teammate screens.
-- This would convert TaskFlow from a personal task board into a fully collaborative multiplayer tool, similar to Linear or Figma!
+- This would convert SyncStripe from a personal task board into a fully collaborative multiplayer tool, similar to Linear or Figma!
